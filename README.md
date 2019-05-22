@@ -1,3 +1,22 @@
+# XPO Modified Timeline Slicer
+### Below you will find the original timeline slicer readme content's
+
+## Goal
+The goal of this project was to reduce the size of the custom visual timeline slicer for Power BI that was created by Microsoft team. This size reduction is created in order for the visual to better fit the needs of XPO's Power BI reports. Extra functionality was added with the introduction of date pickers, which allows for easier picking of precise dates if necessary.
+
+## Outcome
+Here are some side by side comparisons from the original version to this projects version of the timeline:
+
+### Year vs Year
+
+
+### Month vs Month
+
+### Day vs Day
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
 # Timeline Slicer
 [![Build Status](https://travis-ci.org/Microsoft/powerbi-visuals-timeline.svg?branch=master)](https://travis-ci.org/Microsoft/powerbi-visuals-timeline) [![Coverage Status](https://coveralls.io/repos/github/Microsoft/powerbi-visuals-timeline/badge.svg?branch=master)](https://coveralls.io/github/Microsoft/powerbi-visuals-timeline?branch=master)
 
