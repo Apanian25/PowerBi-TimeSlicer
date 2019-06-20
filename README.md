@@ -15,6 +15,12 @@ Here are some side by side comparisons from the original version to this project
 ### Day vs Day
 ![Timeline Slicer screenshot](https://github.com/PesceJonathan/XPOPowerBi-Timeline/blob/master/assets/compareDays.PNG)
 
+## Installation Process
+If you clone this repository, you will not have any of the dependencies necessarry to run the code. In order to download those dependencies, you must enter the following commands:
+
+```bash
+npm install 
+```
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
