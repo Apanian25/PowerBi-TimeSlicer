@@ -8,12 +8,12 @@ The goal of this project was to reduce the size of the custom visual timeline sl
 Here are some side by side comparisons from the original version to this projects version of the timeline:
 
 ### Year vs Year
-![Timeline Slicer screenshot](https://github.com/PesceJonathan/PowerBi-Timeline/blob/master/assets/CompareYear.PNG)
+![Timeline Slicer screenshot](https://raw.githubusercontent.com/PesceJonathan/PowerBi-TimeSlicer/master/assets/CompareYear.PNG)
 
 ### Month vs Month
-![Timeline Slicer screenshot](https://github.com/PesceJonathan/PowerBi-Timeline/blob/master/assets/compareMonth.PNG)
+![Timeline Slicer screenshot](https://raw.githubusercontent.com/PesceJonathan/PowerBi-TimeSlicer/master/assets/compareMonth.PNG)
 ### Day vs Day
-![Timeline Slicer screenshot](https://github.com/PesceJonathan/PowerBi-Timeline/blob/master/assets/compareDays.PNG)
+![Timeline Slicer screenshot](https://raw.githubusercontent.com/PesceJonathan/PowerBi-TimeSlicer/master/assets/compareDays.PNG)
 
 ## Installation Process
 If you clone this repository, you will not have any of the dependencies necessarry to run the code. In order to download those dependencies, you must enter the following commands:
